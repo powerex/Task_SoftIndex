@@ -21,3 +21,4 @@ build/
 
 # Project exclude paths
 /target/
+!/target/HashMap.jar
