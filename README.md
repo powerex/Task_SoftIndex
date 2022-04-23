@@ -17,7 +17,7 @@ allowed methods:
 
 ## Build and run application
 
-Inside project title run command in terminal
+Run command from terminal inside project title folder 
 
 - to clean and build project, that will start tests
 
