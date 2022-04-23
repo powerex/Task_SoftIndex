@@ -1,6 +1,6 @@
 # HashMap with open addressing project
 
-### Not for use, only for reference only
+### Not for use, only for reference
 
 This is a simple example of HashMap:
 key - int
